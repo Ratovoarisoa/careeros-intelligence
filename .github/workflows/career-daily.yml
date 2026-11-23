@@ -36,7 +36,6 @@ jobs:
           python -m unittest discover -s scripts -p 'test_*.py' -v
           python scripts/veille_gratuite.py --demo
       - name: Veille gratuite quotidienne (aucune clé requise)
-        if: github.event_name != 'push'
         run: python scripts/veille_gratuite.py
       - name: Préparer SDK IA avancée si disponible
         if: github.event_name != 'push' && env.OPENAI_API_KEY != ''
@@ -48,7 +47,6 @@ jobs:
           CAREEROS_MODEL: gpt-4.1-mini
         run: python scripts/veille_ia.py
       - name: Enregistrer nouvelles pistes dans le dépôt
-        if: github.event_name != 'push'
         run: |
           git config user.name 'careeros-bot'
           git config user.email 'careeros-bot@users.noreply.github.com'
