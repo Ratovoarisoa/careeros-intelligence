@@ -1,0 +1,7 @@
+.env
+**/__pycache__/
+*.py[cod]
+CV_*
+*credentials*
+*secret*
+*key*.txt
