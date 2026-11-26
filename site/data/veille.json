@@ -1,15 +1,51 @@
 {
   "status": "ok",
-  "last_success": "2026-11-25T15:38:36+00:00",
-  "search_date": "2026-11-25",
-  "new_count": 0,
-  "total_discovered": 1,
+  "last_success": "2026-11-26T15:20:31+00:00",
+  "search_date": "2026-11-26",
+  "new_count": 1,
+  "total_discovered": 2,
   "categories": {
-    "emplois": 1,
+    "emplois": 2,
     "doctorats": 0,
     "bourses": 0
   },
   "items": [
+    {
+      "id": "ai-05bae7650ab99eff",
+      "org": "Global South Opportunities",
+      "title": "Welthungerhilfe (WHH) Jobs 2026: WASH Officer – 2 Positions in Kotido and Amudat, Uganda - Global South Opportunities",
+      "type": "Emploi",
+      "country": "À vérifier",
+      "location": "À préciser",
+      "deadline": "",
+      "time": "",
+      "priority": 4,
+      "match_score": 78,
+      "verify": "Non vérifiée",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wUVVBWndGb2NRMzVsS1NvUnFQNGQ0aWw5RzM5M3VwbEIxWXBMWXFmWUlSRWRsc292VzFtblF4OUxnclJjNVpmbG5naDBkOVM2Mk03Ri1wRzJKUmwxb1hzZ2gwV25UY3du?oc=5",
+      "source": "Google News RSS — piste indirecte",
+      "funding": "Non précisé",
+      "eligibility": "Nationalité et conditions non vérifiées",
+      "risk": "Piste identifiée dans un article de presse (pas une annonce de recrutement). Ouvrir le lien puis retrouver l’offre sur le site officiel avant de candidater.",
+      "cv_focus": "CV WASH/partenariats : CARE SPRING, MadAvance, suivi de 581 points d’eau.",
+      "next": "Vérifier la page du recruteur, les critères pour un candidat malagasy et les dates limites.",
+      "fit": [
+        "WASH / eau et assainissement"
+      ],
+      "docs": [
+        "Vérifier le lien et la date limite",
+        "CV ciblé à préparer",
+        "Lettre / note de motivation",
+        "Relevés / références selon l’offre"
+      ],
+      "ai_discovered": true,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "category_discovered": "emplois",
+      "date_evidence": "",
+      "method": "veille_gratuite",
+      "auto_discovered": true
+    },
     {
       "id": "ai-5a1159ba9c71057e",
       "org": "Global South Opportunities",
@@ -40,7 +76,7 @@
       ],
       "ai_discovered": true,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "category_discovered": "emplois",
       "date_evidence": "",
       "method": "veille_gratuite",
