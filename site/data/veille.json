@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "last_success": "2026-11-27T15:08:33+00:00",
-  "search_date": "2026-11-27",
+  "last_success": "2026-11-28T14:15:23+00:00",
+  "search_date": "2026-11-28",
   "new_count": 0,
   "total_discovered": 2,
   "categories": {
@@ -40,7 +40,7 @@
       ],
       "ai_discovered": true,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "category_discovered": "emplois",
       "date_evidence": "",
       "method": "veille_gratuite",
